@@ -23,6 +23,6 @@ const ipAddresses = [
 node tapo-light-control.js
 ```
 
-## Tapo L510E (Version 1) light bulbs manual
+## Tapo L510E (Version 1) manual
 
 https://www.tp-link.com/de/support/download/tapo-l510e/
