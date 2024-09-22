@@ -1,0 +1,12 @@
+{
+  "name": "n4m-test",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "",
+  "dependencies": {
+    "tp-link-tapo-connect": "^2.0.4"
+  },
+  "scripts": { },
+  "author": "norbert.schnell@hs-furtwangen.de",
+  "license": "BSD"
+}
