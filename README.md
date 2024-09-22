@@ -7,7 +7,7 @@ Create a file *setup.js* with the following content:
 ```
 // user name (email address) and password of the TP-Link Tapo account the devices are associated to
 const username = 'peter.pan@doma.in'; 
-const password = 'thisispeterspassword'; // TP-Link Tapo password (email address) for login
+const password = 'thisispeterspassword';
 
 // IP addresses of the devices to be controlled
 const ipAddresses = [ 
