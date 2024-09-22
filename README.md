@@ -11,9 +11,9 @@ const password = 'thisispeterspassword';
 
 // IP addresses of the devices to be controlled
 const ipAddresses = [ 
-	"192.168.0.10",
-	"192.168.0.11",
-	"192.168.0.12",
+	'192.168.0.10',
+	'192.168.0.11',
+	'192.168.0.12',
 ];
 ```
 
