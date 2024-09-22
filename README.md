@@ -1,4 +1,6 @@
-# Tapo Blinkers
+# Tapo Max
+
+Simple Node.js code to control TP-Link Tapo light bulbs from Cycling'74 Max.
 
 ## Setting up
 
